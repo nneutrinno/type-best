@@ -1,6 +1,6 @@
 {
   "name": "type-custom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The most complete typescript lib",
   "main": "src/lib.d.ts",
   "author": "nneutrinno@gmail.com",
