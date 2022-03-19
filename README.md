@@ -27,10 +27,13 @@ Soon
 
 ### Custom Generics execution in a more flexible way
 
+
+```
 // Prints 'c-b-a'
 type Computed = Chain<'abc', [
     Split.Custom<''>,
     Reverse.Custom,
     Join.Custom<'-'>,
 ]>;
+```
 
