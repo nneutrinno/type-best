@@ -1,0 +1,1 @@
+type Assert<T, E> = T extends E ? T : never;
