@@ -2,7 +2,7 @@
   "name": "type-custom",
   "version": "1.0.4",
   "description": "The most complete typescript lib",
-  "main": "src/lib.d.ts",
+  "main": "src/index.d.ts",
   "author": "nneutrinno@gmail.com",
   "repository": "nneutrinno/type-custom",
   "license": "MIT",
