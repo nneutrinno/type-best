@@ -10,10 +10,10 @@ The most complete typescript lib
 ## List
 - Join - Concatenates all items of a list into a single text
 - Map - Iterates a list with a custom generic
-- Reverse - Reverses a list
+- [`Reverse`](src/list/reverse.d.ts) - Reverses a list
 
 ## Object
-- Get - Obtains a property of an object without warnings
+- [`Get`](src/object/get.d.ts) - Obtains a property of an object without warnings
 - [`ValueOf`](src/object/value-of.d.ts) - Get all values of an object/list
 
 ## String
