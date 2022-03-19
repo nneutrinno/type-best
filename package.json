@@ -4,5 +4,6 @@
   "description": "The most complete typescript lib",
   "main": "src/lib.d.ts",
   "author": "nneutrinno@gmail.com",
+  "repository": "nneutrinno/type-custom",
   "license": "MIT"
 }
