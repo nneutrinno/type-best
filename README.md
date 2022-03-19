@@ -14,7 +14,7 @@ The most complete typescript lib
 
 ## Object
 - Get - Obtains a property of an object without warnings
-- ValueOf - Get all values of an object/list
+- [`ValueOf`](object/value-of.d.ts) - Get all values of an object/list
 
 ## String
 - Split - Breaks a text into pieces by a delimiter
