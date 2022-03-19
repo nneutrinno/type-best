@@ -1,4 +1,4 @@
-# Type Best
+# Type Custom
 
 The most complete typescript lib
 

@@ -1,5 +1,5 @@
 {
-  "name": "type-best",
+  "name": "type-custom",
   "version": "1.0.0",
   "description": "The most complete typescript lib",
   "main": "src/lib.d.ts",
