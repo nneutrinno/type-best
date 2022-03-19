@@ -1,1 +1,1 @@
-type Assert<T, E> = T extends E ? T : never;
+export type Assert<T, E> = T extends E ? T : never;

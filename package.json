@@ -1,7 +1,7 @@
 {
   "name": "type-best",
   "version": "1.0.0",
-  "description": "The most complete typescript utility lib",
+  "description": "The most complete typescript lib",
   "main": "src/lib.d.ts",
   "author": "nneutrinno@gmail.com",
   "license": "MIT"
