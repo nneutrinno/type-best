@@ -25,7 +25,7 @@ Soon
 
 ## Generic
 
-### Custom Generics execution in a more flexible way
+### Custom type execution in a more powerful way
 
 
 ```
