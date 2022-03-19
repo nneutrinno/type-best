@@ -28,7 +28,7 @@ Soon
 ### Custom type execution in a more powerful way
 
 
-```
+```ts
 // Prints 'c-b-a'
 type Computed = Chain<'abc', [
     Split.Custom<''>,
